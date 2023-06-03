@@ -26,11 +26,9 @@ for (const property in wildy2974) {
 - Instagram: https://instagram.com/wildy2974
 
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-<center>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wildy2974&show_icons=true&theme=transparent" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
-</center>
 </div>
 
 
