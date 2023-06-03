@@ -11,7 +11,9 @@ const wildy2974 = {
     Languages: ['PHP', 'Python', 'JavaScript', 'Golang', 'Bash'],
     Tools: ['Laravel', 'Codenighter', 'Flask', 'Django', 'Express', 'Gin', 'Bootstrap', 'Tailwind_CSS'],
     Learning: ['C', 'Cpp', 'Java', 'Flutter', 'Golang'],
-    StackRole: ['Fullstack', 'Software Developer', 'Sysadmin']
+    StackRole: ['Fullstack', 'Software Developer', 'Sysadmin'],
+    About: "I'm a passionate software engineer based in North Jakarta, Indonesia.",
+    Target: "Deliver clean and efficient code",
 }
 
 for (const property in wildy2974) {
