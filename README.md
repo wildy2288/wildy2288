@@ -1,9 +1,5 @@
 <h2> Hi there, I'm Wildy Sheverando 👋</h2>
 
-<p><em>I'm a passionate software engineer based in North Jakarta, Indonesia. My expertise lies in PHP, Python, JavaScript, Golang, and Bash.
-<br>and I always strive to deliver clean and efficient code.
-</em></p>
-
 ### 🖥️ Little more about me  
 ```javascript
 const wildy2974 = {
