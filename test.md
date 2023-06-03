@@ -5,9 +5,7 @@
 </em></p>
 
 
-
-### 👋 Little more about me  
-
+### 🖥️ Little more about me  
 ```javascript
 const wildy2974 = {
     Pronouns: 'he/him',
