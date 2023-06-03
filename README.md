@@ -27,7 +27,9 @@ for (const property in wildy2974) {
 - WhatsApp: https://wa.me/6285710002832
 - Instagram: https://instagram.com/wildy2974
 
-[![Github](https://github-readme-stats.vercel.app/api/?username=wildy2974&count_private=true&theme=tokyonight&showicons=true)]()
-[![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&langs_count=5&theme=tokyonight)]()
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api/?username=wildy2974&count_private=true&theme=tokyonight&showicons=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&langs_count=5&theme=tokyonight" width="50%" />
+</div>
 
 ---
