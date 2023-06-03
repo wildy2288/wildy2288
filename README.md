@@ -30,8 +30,10 @@ for (const property in wildy2974) {
     <img src="https://github-readme-stats.vercel.app/api/?username=wildy2974&count_private=true&theme=tokyonight&showicons=true" height="165" />
   </div>
   <div style="flex: 50%; padding-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&langs_count=5&theme=tokyonight" height="165" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" height="165" style="vertical-align: top;" />
   </div>
 </div>
+
+
 
 ---
