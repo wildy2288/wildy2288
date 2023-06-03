@@ -25,10 +25,10 @@ for (const property in wildy2974) {
 - WhatsApp: https://wa.me/6285710002832
 - Instagram: https://instagram.com/wildy2974
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 50%; padding-right: 10px;">
+<div style="display: flex; flex-direction: row; align: center;">
+  <div style="flex: 50%; padding-right: 10px; align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=wildy2974&show_icons=true&theme=transparent" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
   </div>
 </div>
 
