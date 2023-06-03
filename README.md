@@ -28,9 +28,7 @@ for (const property in wildy2974) {
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 50%; padding-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=wildy2974&show_icons=true&theme=transparent" height="165" />
-  </div>
-  <div style="flex: 50%; padding-left: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&layout=compact" height="165" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
   </div>
 </div>
 
