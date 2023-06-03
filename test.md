@@ -8,7 +8,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="50"> Little more about me  
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Little more about me  
 
 ```javascript
 const wildy2974 = {
@@ -16,6 +16,7 @@ const wildy2974 = {
     Languages: ['PHP', 'Python', 'JavaScript', 'Golang', 'Bash'],
     Tools: ['Laravel', 'Codenighter', 'Flask', 'Django', 'Express', 'Gin', 'Bootstrap', 'Tailwind_CSS'],
     Learning: ['C', 'Cpp', 'Java', 'Flutter', 'Golang'],
+    StackRole: ['Fullstack', 'Software Developer', 'Sysadmin']
 }
 
 for (const property in wildy2974) {
