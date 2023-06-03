@@ -26,12 +26,13 @@ for (const property in wildy2974) {
 - Instagram: https://instagram.com/wildy2974
 
 <div style="display: flex; flex-direction: row;">
-  <div style="flex: 100%; padding-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/?username=wildy2974&count_private=true&theme=tokyonight&showicons=true" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" height="165" style="vertical-align: top;" />
+  <div style="flex: 50%; padding-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wildy2974&show_icons=true&theme=transparent" height="165" />
+  </div>
+  <div style="flex: 50%; padding-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&layout=compact" height="165" style="vertical-align: top;" />
   </div>
 </div>
-
 
 
 ---
