@@ -1,6 +1,4 @@
-<h2> Hi there, I'm Wildy Sheverando <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-
+<h2> Hi there, I'm Wildy Sheverando 👋</h2>
 
 <p><em>I'm a passionate software engineer based in North Jakarta, Indonesia. My expertise lies in PHP, Python, JavaScript, Golang, and Bash.
 <br>and I always strive to deliver clean and efficient code.
@@ -8,7 +6,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Little more about me  
+### 👋 Little more about me  
 
 ```javascript
 const wildy2974 = {
@@ -25,5 +23,11 @@ for (const property in wildy2974) {
     }
 }
 ```
+
+### 📫 How to reach me
+- Email: wildy2974@gmail.com
+- Telegram: https://t.me/wildy2974
+- WhatsApp: https://wa.me/6285710002832
+- Instagram: https://instagram.com/wildy2974
 
 ---
