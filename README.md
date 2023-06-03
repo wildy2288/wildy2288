@@ -25,7 +25,7 @@ for (const property in wildy2974) {
 - WhatsApp: https://wa.me/6285710002832
 - Instagram: https://instagram.com/wildy2974
 
-
+### 📊 My Github Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wildy2974&show_icons=true&theme=transparent" height="165" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
