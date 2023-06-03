@@ -2,7 +2,7 @@
 
 ### 🖥️ Little more about me  
 ```javascript
-const wildy2974 = {
+const wildy2288 = {
     Pronouns: 'he/him',
     Languages: ['PHP', 'Python', 'JavaScript', 'Golang', 'Bash'],
     Tools: ['Laravel', 'Codenighter', 'Flask', 'Django', 'Express', 'Gin', 'Bootstrap', 'Tailwind_CSS'],
@@ -12,23 +12,23 @@ const wildy2974 = {
     Target: "Deliver clean and efficient code",
 }
 
-for (const property in wildy2974) {
-    if (Object.prototype.hasOwnProperty.call(wildy2974, property)) {
-        console.log(`${property}: ${wildy2974[property]}`);
+for (const property in wildy2288) {
+    if (Object.prototype.hasOwnProperty.call(wildy2288, property)) {
+        console.log(`${property}: ${wildy2288[property]}`);
     }
 }
 ```
 
 ### 📊 My Github Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wildy2974&show_icons=true&theme=transparent" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2974&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wildy2288&show_icons=true&theme=transparent" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildy2288&layout=compact&show_icons=true&theme=transparent" height="165" style="vertical-align: top;" />
 </div>
 
 ### 📫 How to reach me
-- Email: wildy2974@gmail.com
-- Telegram: https://t.me/wildy2974
-- WhatsApp: https://wa.me/6285710002832
-- Instagram: https://instagram.com/wildy2974
+- Email: wildy2288@gmail.com
+- Telegram: https://t.me/wildy2288
+- WhatsApp: https://wa.me/62895329233285
+- Instagram: https://instagram.com/wildy2288
 
 ---
