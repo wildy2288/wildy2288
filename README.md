@@ -27,7 +27,7 @@ for (const property in wildy2288) {
 
 ### 📫 How to reach me
 - Email: wildy2288@gmail.com
-- Telegram: https://t.me/wildy2288
+- Telegram: https://t.me/wildysheverando
 - WhatsApp: https://wa.me/62895329233285
 - Instagram: https://instagram.com/wildy2288
 
